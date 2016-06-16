@@ -1,4 +1,7 @@
 # Internet-Download-Manager-IDM-6.25-Build-20-Registered-32bit-64bit-Patch-CrackingPatching
+
+blog：https://www.hackfun.org/
+
 Internet Download Manager (IDM) 6.25 Build 20 Registered 32bit 64bit Patch CrackingPatching
 
 #文件: idman625build20.exe
@@ -33,3 +36,5 @@ MD5: 8B75C45AB3FD0F79712BD797445E9D75
 SHA1: 30B64BE57D3EEA285BE42B31A26249DC3B1AA309
 
 CRC32: 631BAD70
+
+
